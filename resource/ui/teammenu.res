@@ -65,6 +65,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/horse"
 		"scaleImage"	"1"		
+		"mouseinputenabled"	"0"
 	}
 	
 	"teambutton0"

@@ -27,7 +27,7 @@
 		"fieldName" "HudObjectiveStatus"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"0"
+		"xpos"	"250"
 		"ypos"	"0"
 		"wide"	"f0"
 		"tall"	"480"
@@ -475,7 +475,7 @@
 		"CornerRadius"	  "3"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Default"
+		"TextFont"		""
 		
 		"TeamBlue"		"HUDBlueTeamSolid"
 		"TeamRed"		"HUDRedTeamSolid"

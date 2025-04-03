@@ -757,41 +757,6 @@
 		"PaintBackgroundType"	"0"
 	}		
 	
-	{
-		"ControlName"		"CTFFooter"
-		"fieldName"			"Footer"
-		"zpos"				"6"
-		"tall"				"80"
-		"button_separator"	"10"
-		"buttongap"			"50"
-		"textadjust"		"3"
-		"buttonoffsety"		"20"
-		"center"			"0"
-		"fonttext"			"MatchmakingDialogMenuLarge"
-		"fgcolor"			"HudOffWhite" 	
-		
-		"button"
-		{
-			"name"		"cancel"
-			"text"		"#GameUI_Cancel"
-			"icon"		"#GameUI_Icons_B_BUTTON"	
-		}
-		
-		"button"
-		{
-			"name"		"nextprev"
-			"text"		"#TF_NextPrev"
-			"icon"		"#GameUI_Icons_DPAD"	
-		}				
-		
-		"button"
-		{
-			"name"		"select"
-			"text"		"#GameUI_Select"
-			"icon"		"#GameUI_Icons_A_BUTTON"	
-		}
-	}
-	
 	"localPlayerImage" [$WIN32]
 	{
 		"ControlName"	"CTFImagePanel"
@@ -1416,6 +1381,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/horse"
 		"scaleImage"	"1"		
+		"mouseinputenabled"	"0"
 	}
 
 	"TFPlayerModel"
