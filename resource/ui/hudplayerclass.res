@@ -22,8 +22,8 @@
 		"xpos"			"3"
 		"ypos"			"c20"
 		"zpos"			"7"
-		"wide"			"500"
-		"tall"			"150"
+		"wide"			"400"
+		"tall"			"200"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"replay/thumbnails/horse"
@@ -49,10 +49,8 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusSpyOutlineImage"
-		"xpos"			"3"		[$WIN32]
-		"ypos"			"r67"	[$WIN32]
-		"xpos"			"35"	[$X360]
-		"ypos"			"r89"	[$X360]
+		"xpos"			"3"		
+		"ypos"			"r67"	
 		"zpos"			"7"
 		"wide"			"55"
 		"tall"			"55"
@@ -228,17 +226,13 @@
 			"zpos"					"0"
 			"wide"					"p1"
 			"tall"	 				"f0"
-			"autoResize"			"0"
-			"pinCorner"				"0"
 			"visible"				"1"
 			"enabled"				"1"
 			"image"					"../hud/color_panel_brown"
 			"scaleImage"			"1"
 			"teambg_1"				"../hud/color_panel_brown"
 			"teambg_2"				"../hud/color_panel_red"
-			"teambg_2_lodef"		"../hud/color_panel_red"
 			"teambg_3"				"../hud/color_panel_blu"
-			"teambg_3_lodef"		"../hud/color_panel_blu"
 			"proportionaltoparent"	"1"
 		
 			"src_corner_height"		"23"				// pixels inside the image
@@ -258,8 +252,6 @@
 			"zpos"				"1"
 			"wide"				"200"
 			"tall"	 			"f0"
-			"autoResize"		"0"
-			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
 			"textAlignment"		"North-West"
@@ -280,8 +272,6 @@
 			"zpos"				"0"
 			"wide"				"200"
 			"tall"	 			"f0"
-			"autoResize"		"0"
-			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
 			"textAlignment"		"North-West"
@@ -303,8 +293,6 @@
 			"zpos"				"0"
 			"wide"				"200"
 			"tall"	 			"f0"
-			"autoResize"		"0"
-			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
 			"textAlignment"		"North-West"
