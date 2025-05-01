@@ -170,7 +170,7 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"c-135"
+		"xpos"			"c-160"
 		"ypos"			"20"
 		"zpos"			"-1"		
 		"wide"			"270"
@@ -187,7 +187,7 @@
 			"force_pos"	"1"
 
 			"angles_x" "0"
-			"angles_y" "170"
+			"angles_y" "260"
 			"angles_z" "0"
 			"origin_x" "190"
 			"origin_y" "0"
